@@ -1,0 +1,19 @@
+{
+  "name": "@denight/fs-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daixinye/fs-cache.git"
+  },
+  "author": "daixinye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daixinye/fs-cache/issues"
+  },
+  "homepage": "https://github.com/daixinye/fs-cache#readme"
+}
